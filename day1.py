@@ -18,8 +18,17 @@ print(89*7)
 
 print("i am", 57 ,"years old.")
 
-age = 9
+age = 1
+AGE = 2 
+age = 3
 
 print (age)
+print (AGE)
+print (Age)
 
 my_var="Pratik"
+myvar="Pratik"
+MYVAR="Pratik"
+myvar2="Pratik"
+
+
